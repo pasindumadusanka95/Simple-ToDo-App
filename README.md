@@ -1,1 +1,5 @@
-# ToDoApp-Angular-SpringBoot-MongoDB
+### Simple todo app 
+
+technologies - Spring Boot
+               Angular
+               MongoDB
